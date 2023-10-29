@@ -5,9 +5,9 @@ import fractions
 Напишите программу, которая должна возвращать сумму и произведение дробей.
 Для проверки своего кода используйте модуль fractions.
 """
+frac1 = "3/4"
+frac2 = "4/5"
 
-fract1 = "3/4"
-fract2 = "4/5"
 
 temp_str = fract1.split("/")
 fract1_a = int(temp_str[0])
