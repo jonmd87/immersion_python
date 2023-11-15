@@ -1,0 +1,4 @@
+how to write in file with method write after you need to add '\n'
+First you need to add \n
+Write with method writelines()
+This string is writting with method print(), print() add \n
