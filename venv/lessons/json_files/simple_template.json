@@ -1,0 +1,11 @@
+{
+  "name":"Evgheni",
+  "age":36,
+  "user_name":"jon87",
+  "status":"active",
+  "address": {
+    "country": "Moldova",
+    "city": "cahul",
+    "street": "Matei Basarab"
+  }
+}
